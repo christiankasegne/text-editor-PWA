@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/magickw/TextEditor#readme",
   "dependencies": {
+    "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
     "express": "^4.17.3"
   },
   "devDependencies": {
