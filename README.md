@@ -38,5 +38,6 @@ N/A
 ## Links
 
 GitHub Repository: https://github.com/christiankasegne/text-editor-PWA
+
 Heroku: https://ck-text-editor-pwa.herokuapp.com/
 
